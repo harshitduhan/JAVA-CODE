@@ -1,0 +1,17 @@
+1. write function in array to input 2Darray in util
+2. same for print
+3. print pair whose sum is particular value else -1,-1  in array
+4. given 2D array represent all its elements in 1D array.
+5. Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number.
+Example:
+Input: arr=[1,3,4,2,2]
+Output: 2
+Explanation: Since 2 is the duplicate number the answer will be 2.
+
+6. given 2D array find the sum of its diagonal elements
+7. given a array with repeated elements. if any element has a frequency of >n/2 than return that element else return -1
+8. given a array with 0's 1's sort the elements without sort function
+9. Write a Program to find the maximum element in the matrix.
+Write a Program to find the minimum element in the matrix.
+
+10. Write a Program to accept two matrices and check whether they are equal or Not.

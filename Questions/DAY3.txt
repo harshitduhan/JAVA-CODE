@@ -1,0 +1,38 @@
+1. max of 3 numbers from a function which find max of 2 numbers
+2. find factorial of no. using function
+3. function overloading to find maximum of 2 numbers. case1: double double ///case2: int int
+4. program to display roots of quadritic equation  ax2+ bx+c=0    a,b,c through command line
+5. Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
+A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
+Example:
+Input: nums = [0,2,1,5,3,4]
+Output: [0,1,2,4,5,3]
+Explanation: The array ans is built as follows: 
+ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]], nums[nums[5]]]
+    = [nums[0], nums[2], nums[1], nums[5], nums[3], nums[4]]
+    = [0,1,2,4,5,3]
+
+6. Write a Java method to develop a Java method for extracting the first digit from a positive or negative integer
+Expected Output:
+Input an integer(positive/negative): 1234
+Extract the first digit from the said integer:
+1
+
+7. Make a function -> Input Array and return max element from that array. without sorting
+8. Make a function -> Input Array and return min element from that array. without sorting
+9. Bonus : Problem Statement: Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number.
+Example:
+Input: arr=[1,3,4,2,2]
+Output: 2
+Explanation: Since 2 is the duplicate number the answer will be 2.
+10. TWIN PRIME NUMBERS
+Write a Java method to find all twin prime numbers less than 100.
+Expected Output:
+(3, 5)                                                   
+(5, 7)                                                   
+(11, 13)                                                 
+(17, 19)                                                 
+(29, 31)                                                 
+(41, 43)                                                 
+(59, 61)                                                 
+(71, 73)

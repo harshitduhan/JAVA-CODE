@@ -1,0 +1,7 @@
+1. Take command line input number. than do square of even no.s and store this in array
+2. Take command line input number. than do square of prime no and store it in array also store the prime no. in array
+3. represent 2d array in 1d array
+4. Given an array arr[] of size N, find the special sum of the array. A special sum array is another array specialSum[] of the same size, such that the value of specialSum[i] is arr[0] + arr[1] + arr[2] . . . arr[i].
+Example: 
+Input: arr[] = {10, 20, 10, 5, 15}
+Output: specialSum[] = {10, 30, 40, 45, 60}
