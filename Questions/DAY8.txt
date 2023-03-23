@@ -1,0 +1,22 @@
+Day8
+
+1. input a string print ascaii values for vowels and space.
+By Create a function in utilHelper for evey char to give ascaii values. Yo wil give character in function and functions returns its ascii value.
+Do for custom input.
+ 
+2. Given a string  do the needfull. rotate first two letters
+
+Input: "ZOMATO"
+Output: "TOZOMA"
+
+3. Given a array of character values. Return a new array with ascii values of each character.
+
+4. Count no of opening and closing brackets and return this in array of size 2.
+Input: ((()))
+Output: 3,3
+
+5. Program for binay search.
+
+6. difference between String builder and String buffer.
+
+7. Merge two sorted arrays. do it again.

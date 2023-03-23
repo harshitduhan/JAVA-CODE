@@ -1,0 +1,58 @@
+1. Binary Search padhlo ek baar abhi
+2. override a fuction in util helper "print 1 d array"   do this for printing string array
+3. create a function in utilhelper NAME: "isStringEmptyOrNull(String str)    takes string returns bollean...
+
+Example:
+case1:
+input: str=null
+output: True
+case2:
+input: str=""   string is blank
+output: True
+case3:
+input: str=" " space is there
+output: True
+case4: 
+input: str="abcd"
+output: False 
+
+
+4. create a function in utilhelper NAME: "isStringNotEmptyNotNull(String str)    takes string returns bollean...
+if empty False and if not True
+
+case1:
+input: str=null
+output: False
+case2:
+input: str=""   string is blank
+output: False
+case3:
+input: str=" " space is there
+output: False
+case4: 
+input: str="abcd"
+output: True 
+
+5. Given a string array. Reverse all the elements and print it.  
+arr={"my","name","is","harshit"}
+result: {"ym","eman","si","tihsrah"}
+
+6. Given a string and replce the charcters
+arr: {My name is gadha}
+all a changed to A
+result: {My nAme is gAdhA}
+
+7. Given a string array. Reverse all the elements and print it.  
+arr={"my","name","is","harshit"}
+result: {"Ym","Eman","Si","ihsrah"}
+
+8. Given a string. Remove all the duplicates and print
+Input: abcdefgabcd
+output: abcdefg
+
+9. Given a string 
+
+str: "aaabbbccaa"
+output: a3b3c2a2
+
+10. Read about mutability and immutability
